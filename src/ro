@@ -1,0 +1,10 @@
+<Header  />
+  <Routes>
+     <Route path="/" element={<Home />} />
+     <Route path="/shop" element={<Products/>} />
+     <Route path="/:id" element={ <UseProductView/>}></Route>
+     <Route path="/login" element={<SignIn />} />
+     <Route path="/SignUP" element={<Signup />} />
+     <Route path="/cart" element={<Cart />} />
+    </Routes>
+    <Footer />

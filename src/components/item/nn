@@ -1,0 +1,20 @@
+      {/* <div className="card">
+            <div className="grid">
+                <div className="image">
+                    <img src="assets/img/gallery/1.png" alt="" />
+                </div>
+                <div className="title">
+                    <Link to={`/product/${_id}`} className="link titleLink">
+                        {name}
+                    </Link>
+                </div>
+                <div className="flex">
+                    <span className="price" style={{ marginRight: 50 }}>
+                        ${price}
+                    </span>
+                    <div className="cart" onClick={addToCart}>
+                        <img className="cartImg" src="/cart.svg" alt="" />
+                    </div>
+                </div>
+            </div>
+    </div>*/}
